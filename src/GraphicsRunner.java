@@ -1,5 +1,5 @@
-//Name -
-//Date -
+//Name - Charlie Liu
+//Date - 10/30/23
 
 import javax.swing.JFrame;
 
@@ -15,7 +15,7 @@ public class GraphicsRunner extends JFrame
 		setSize(WIDTH,HEIGHT);
 
 		getContentPane().add(new ScaryHouse());
-		
+
 		setVisible(true);
 
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
